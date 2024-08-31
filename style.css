@@ -4,3 +4,9 @@ p{
     padding: 10px;
     border: 23;
 }
+
+p{
+    color: brown;
+    background-color: aliceblue;
+    width: 20px;
+}
